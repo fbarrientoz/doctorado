@@ -10949,6 +10949,7 @@
     <Content Include="vendor\twentytwenty\scss\twentytwenty-no-compass 2.scss" />
     <Content Include="vendor\twentytwenty\scss\twentytwenty-no-compass.scss" />
     <Content Include="vendor\twentytwenty\scss\twentytwenty.scss" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
